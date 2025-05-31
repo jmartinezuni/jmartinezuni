@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @jmartinezuni
-- 👀 I’m interested in Open Source Enviroments, AI and Edge Computing
-- 🌱 I’m currently learning AI on Microboards
-- 💞️ I’m looking for AI projects to change people's life
+- 👋 Hi there
+- 👨‍💻 I’m System Engineer currently learning AI for solving real-world problems
+
 
 
 <!---
