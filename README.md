@@ -1,6 +1,6 @@
 - 👋 Hi there
 - 👨‍💻 I’m System Engineer currently learning AI for solving real-world problems
-
+- 🛡️ In Demis Hassabis I trust!
 
 
 <!---
